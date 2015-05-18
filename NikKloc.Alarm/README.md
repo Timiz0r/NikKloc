@@ -1,2 +1,2 @@
-﻿# NikKloc
-This one's for you, Nik!
+﻿# NikKloc.Alarm
+The alarm portion of the NikKloc
